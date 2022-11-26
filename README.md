@@ -512,7 +512,6 @@ Summary of java technology stack
     # 年轻代、老年代均使用并行收集器，初始堆内存64M，最大堆内存512M JAVA_OPTS="-XX:+UseParallelGC -XX:+UseParallelOldGC -Xms64m -Xmx512m -XX:+PrintGCDetails - XX:+PrintGCTimeStamps -XX:+PrintGCDateStamps -XX:+PrintHeapAtGC -Xloggc:../logs/gc.log"
     ```
 
-    
 
 2. 调整年轻代大小
 
