@@ -25,4 +25,6 @@ JVM整体架构分为五大模块：类装载器子系统，运行时数据区�
 
 **<font size=10, color='red'>MySQL参考资料：</font>**
 1. 《深入理解Java虚拟机 JVM高级特性与最佳实践》第三版
-2. 《高性能MySQL》
+2. 拉勾教育高薪训练营课程的MySQL海量存储与优化教程
+3. 《高性能MySQL》
+4. https://blog.csdn.net/u011528738/article/details/128031214 - MySQL的Undo Log、Redo Log和Binlog
