@@ -21,7 +21,7 @@ JVM整体架构分为五大模块：类装载器子系统，运行时数据区�
 5. https://blog.csdn.net/u011528738/article/details/124347961 - 哪些内存需要回收
 
 ## MySQL 
-**MySQL总结内容详见：/knowledge/03-mysql**
+**MySQL总结内容详见：./knowledge/03-mysql**
 
 **<font size=10, color='red'>MySQL参考资料：</font>**
 1. 《深入理解Java虚拟机 JVM高级特性与最佳实践》第三版
