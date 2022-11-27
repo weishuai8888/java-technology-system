@@ -55,6 +55,14 @@ JVM整体架构分为五大模块：类装载器子系统，运行时数据区�
 ## 并发编程
 **并发编程总结内容详见：./knowledge/06-并发编程**
 
-**<font size=10, color='red'>Redis并发编程：</font>**
+**<font size=10, color='red'>并发编程：</font>**
 1. 《深入理解Java虚拟机 JVM高级特性与最佳实践》第三版
 2. 拉勾教育高薪训练营课程的并发编程
+
+
+
+## RocketMQ
+**RocketMQ总结内容详见：./knowledge/07-RocketMQ**
+
+**<font size=10, color='red'>RocketMQ：</font>**
+1. 拉勾教育高薪训练营课程的分布式消息服务中间件进阶
