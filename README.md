@@ -44,8 +44,17 @@ JVM整体架构分为五大模块：类装载器子系统，运行时数据区�
 
 
 
-## Redis总结
+## Redis
 **Redis总结内容详见：./knowledge/05-Redis**
 
 **<font size=10, color='red'>Redis参考资料：</font>**
 1. 拉勾教育高薪训练营课程的第五阶段大型分布式系统缓存架构进阶
+
+
+
+## 并发编程
+**并发编程总结内容详见：./knowledge/06-并发编程**
+
+**<font size=10, color='red'>Redis并发编程：</font>**
+1. 《深入理解Java虚拟机 JVM高级特性与最佳实践》第三版
+2. 拉勾教育高薪训练营课程的并发编程
